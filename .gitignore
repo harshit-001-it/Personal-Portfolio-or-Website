@@ -1,0 +1,20 @@
+# Sensitive credentials
+.env
+
+# Project specific files
+projects_cache.json
+messages.json
+
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+.flaskenv
+
+# IDEs
+.vscode/
+.idea/
